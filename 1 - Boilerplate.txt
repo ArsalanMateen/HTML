@@ -1,0 +1,16 @@
+<!DOCTYPE html>  <!-- Specify the latest version of HTML -->
+<html lang="en">  <!-- Sets the language of the document to English -->
+
+  <head>  <!-- Head section containing metadata and links to resources -->
+
+    <meta charset="UTF-8" />  <!-- Specifies the character encoding for the document -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />  <!-- Ensures compatibility with Internet Explorer -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />  <!-- Sets the viewport to make the website responsive on all devices -->
+
+    <title>Document</title>  <!-- Defines the title of the document, shown in the browser tab -->
+  </head>
+
+  <body>  <!-- Body section containing the content to be displayed on the page -->
+    <h1>Hello, World!</h1>
+  </body>
+</html>
