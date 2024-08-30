@@ -8,16 +8,12 @@ The <address> HTML element indicates that the enclosed HTML provides contact inf
 
 ** Usage notes **
 
--- The <address> element can only be used to represent the contact information for its nearest <article> or <body> element 
-ancestor, it means that;
+-- The <address> element can only be used to represent the contact information for its nearest <article> or <body> element ancestor, it means that;
 
-If you place the <address> element inside an <article>, it represents the contact information related to that specific article,
-such as the author’s contact details.
+If you place the <address> element inside an <article>, it represents the contact information related to that specific article,such as the author’s contact details.
 
-If it is outside of an <article> and just inside the <body>, it represents the contact information for the entire website 
-or webpage.
+If it is outside of an <article> and just inside the <body>, it represents the contact information for the entire website or webpage.
 
--- This element should not contain more information than the contact information, 
-like a publication date (which belongs in a <time> element).
+-- This element should not contain more information than the contact information, like a publication date (which belongs in a <time> element).
 
 -- Typically, an <address> element can be placed inside the <footer> element of the current section, if any.

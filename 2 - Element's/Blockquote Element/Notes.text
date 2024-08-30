@@ -1,5 +1,4 @@
-The <blockquote> tag specifies a section that is quoted from another source.
-Usually, this is rendered visually by indentation
+The <blockquote> tag specifies a section that is quoted from another source.Usually, this is rendered visually by indentation
 
 <blockquote cite="https://www.huxley.net/bnw/four.html">
   <p>
@@ -13,14 +12,10 @@ Usually, this is rendered visually by indentation
 
 -- cite
 
-The cite attribute specifies a URL to a document that explains the quote, 
-or why the text was inserted/changed.
+The cite attribute specifies a URL to a document that explains the quote, or why the text was inserted/changed.
 
 ** Usage **
 
--- If you are including a quotation on a webpage using the <blockquote> element in HTML, 
-and you need to provide attribution (i.e., the source or author of the quote), 
-the attribution should not be placed within the <blockquote> element itself. Instead, it should be placed outside of it.
+-- If you are including a quotation on a webpage using the <blockquote> element in HTML, and you need to provide attribution (i.e., the source or author of the quote), the attribution should not be placed within the <blockquote> element itself. Instead, it should be placed outside of it.
 
--- That when you want to include a shorter quotation within the flow of a paragraph or sentence, 
-rather than setting it apart as a block, you should use the <q> (Quotation) element in HTML.
+-- That when you want to include a shorter quotation within the flow of a paragraph or sentence, rather than setting it apart as a block, you should use the <q> (Quotation) element in HTML.
