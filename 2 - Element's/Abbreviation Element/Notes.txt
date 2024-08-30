@@ -1,0 +1,7 @@
+The <abbr> HTML element represents an abbreviation or acronym.
+
+The optional 'title' attribute can provide an expansion for the abbreviation or acronym when a full expansion is not present
+
+<p>
+  Ashok's joke made me <abbr title="Laugh Out Loud">LOL</abbr> big time. 
+</p>

@@ -1,0 +1,23 @@
+The <b> HTML element is used to draw the reader's attention to the element's contents, 
+which are not otherwise granted special importance. This was formerly known as the Boldface element, 
+and most browsers still draw the text in boldface. 
+
+However, you should not use <b> for styling text or granting importance. If you wish to create boldface text, 
+you should use the CSS font-weight property. If you wish to indicate an element is of special importance, 
+you should use the <strong> element.
+
+** Usage notes **
+
+-- Do not confuse the <b> element with the <strong>, <em>, or <mark> elements. 
+
+The <strong> element represents text of certain importance, <em> puts some emphasis on the text and the <mark> element 
+represents text of certain relevance. The <b> element doesn't convey such special semantic information, use it only when no 
+others fit.
+
+-- Do not mark titles and headings using the <b> element. For this purpose, use the h1 to h6 tags.
+
+-- It is a good practice to use the class attribute on the <b> element in order to convey additional semantic information as 
+needed (for example; <b class="highlight"> Important keywords or phrases </b> within the text are highlighted to draw attention).
+
+-- Historically, the <b> element was meant to make text boldface. Styling information has been deprecated since HTML4, 
+so the meaning of the <b> element has been changed
